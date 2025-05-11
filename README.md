@@ -3,8 +3,6 @@
 ## Description
 This is a simple program designed to log and track books in a library. It allows users to input book titles, authors, and automatically counts how many copies of each book exist. It can detect duplicate entries and update the inventory accordingly.
 
-This project is one of my first coding experiences using the C programming language and demonstrates fundamental concepts such as arrays, strings, and structures.
-
 ## Features
 - Add books to the inventory by entering the title and author.
 - Automatically count the number of copies of each book, updating the inventory if a duplicate entry is found.
