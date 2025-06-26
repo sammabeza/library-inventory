@@ -123,3 +123,14 @@ The program creates a `book_inventory.txt` file containing a formatted list of a
 ---
 
 *This project demonstrates progression from basic C programming to more sophisticated software design principles, making it suitable for real-world library management scenarios.*
+
+---
+
+## Legacy Files
+
+This repository also includes earlier versions of the program:
+
+- `library_inventory_count.c`: An experimental version focused on counting logic
+- `library2.c`: Current and most up-to-date version
+
+Only `library2.c` is actively maintained. Other files are kept for reference and historical context.
