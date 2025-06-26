@@ -1,6 +1,7 @@
 # Library Inventory Tracker
 
 ## Description
+<<<<<<< HEAD
 This is an enhanced library inventory management system that allows librarians to efficiently track books, authors, and copy counts. The program features intelligent duplicate detection, robust input validation, and professional formatting for inventory management.
 
 ## Features
@@ -123,3 +124,29 @@ The program creates a `book_inventory.txt` file containing a formatted list of a
 ---
 
 *This project demonstrates progression from basic C programming to more sophisticated software design principles, making it suitable for real-world library management scenarios.*
+=======
+This is a simple program designed to log and track books in a library. It allows users to input book titles, authors, and automatically counts how many copies of each book exist. It can detect duplicate entries and update the inventory accordingly.
+
+## Features
+- Add books to the inventory by entering the title and author.
+- Automatically count the number of copies of each book, updating the inventory if a duplicate entry is found.
+- Display the book inventory summary with titles, authors, and the number of copies.
+
+## Example Output
+
+```
+How many books would you like to enter? 3
+Book title: Wuthering Heights
+Author: Emily Brontë
+
+Book title: Jane Eyre
+Author: Charlotte Brontë
+
+Book title: Wuthering Heights
+Author: Emily Brontë
+
+===== INVENTORY SUMMARY =====
+Wuthering Heights by Emily Brontë - 2 copies
+Jane Eyre by Charlotte Brontë - 1 copy
+```
+>>>>>>> ab61155f4fa3b3b5e5dd0e1091c122858494517a
