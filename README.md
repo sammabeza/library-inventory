@@ -1,7 +1,6 @@
 # Library Inventory Tracker
 
 ## Description
-<<<<<<< HEAD
 This is an enhanced library inventory management system that allows librarians to efficiently track books, authors, and copy counts. The program features intelligent duplicate detection, robust input validation, and professional formatting for inventory management.
 
 ## Features
@@ -149,4 +148,3 @@ Author: Emily Brontë
 Wuthering Heights by Emily Brontë - 2 copies
 Jane Eyre by Charlotte Brontë - 1 copy
 ```
->>>>>>> ab61155f4fa3b3b5e5dd0e1091c122858494517a
